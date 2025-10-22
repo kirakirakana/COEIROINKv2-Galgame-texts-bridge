@@ -1,6 +1,9 @@
 # COEIROINKv2-Galgame-texts-bridge
 A bridge program written by python for connecting the Japanese visual novel engine and COEIROINKv2 AI voice generation
 
+[日本語版はこちら](./README-ja.md)  
+[English version here](./README-en.md)
+
 # COEIROINK v2 Python连接程序 
 
 这是一个专为Galgame的「テキスト読み上げ機能」（文本朗读功能）设计的Python连接程序。它通过调用COEIROINK v2的API，将游戏中的文本实时转换为高质量的语音WAV文件。
