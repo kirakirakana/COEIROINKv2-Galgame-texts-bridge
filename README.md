@@ -11,6 +11,8 @@ A bridge program written by python for connecting the Japanese visual novel engi
 当然，除了Galgame，你也可以将它用于任何需要通过命令行进行文本转语音的场景。
 
 ## 🎮 Galgame文本朗读功能设置指南
+我在贴吧写了一个详细的无脑中文教程可以试试按照这个教程一步步去设置哦
+https://tieba.baidu.com/p/10167834101
 
 要在支持外部程序调用的Galgame中使用本程序，请按照以下步骤设置：
 
