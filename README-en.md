@@ -9,6 +9,10 @@ Of course, besides Galgames, you can use it in any scenario where text-to-speech
 
 ## 🎮 Guide to Setting Up Text-to-Speech in Galgames
 
+I wrote a detailed beginner's guide in Chinese. Feel free to follow the steps for the setup.
+
+https://tieba.baidu.com/p/10167834101
+
 To use this program in Galgames that support external program calls, follow these steps:
 
 1. In the Galgame settings, find the "External Application Call" option.
